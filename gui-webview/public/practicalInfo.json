@@ -1,0 +1,29 @@
+{
+    "practicals": [
+      {
+        "idStore": 1,
+        "StoreName": 1,
+        "Parking": "Adopt",
+        "Gate": "lorem ipsum doler ete ipsum ena teler gote itsu",
+        "OpeningHourString": "",
+        "PhoneNumber": "",
+        "ExceptionnalHours" : ""
+      },
+      {
+        "idStore": 2,
+        "StoreName": 1,
+        "Parking": "Adopt",
+        "Gate": "lorem ipsum doler ete ipsum ena teler gote itsu",
+        "OpeningHourString": "",
+        "PhoneNumber": ""
+      },
+      {
+        "idStore": 3,
+        "StoreName": 1,
+        "Parking": "Adopt",
+        "Gate": "lorem ipsum doler ete ipsum ena teler gote itsu",
+        "OpeningHourString": "",
+        "PhoneNumber": ""
+      }
+    ]
+}

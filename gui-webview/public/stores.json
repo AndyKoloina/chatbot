@@ -1,0 +1,40 @@
+{
+    "stores": [
+      {
+        "Id": 1,
+        "Title": "Adopt",
+        "Subtitle": "Apple Store, First floor. Porte Seine, Open from Monday till Saturday 10am-8.30pm, Sunday 10 am-8.30pm. 01 34 17 35 00"
+       
+      },
+      {
+        "Id": 2,
+        "Title": "Agatha",
+        "Subtitle": "Apple Store, First floor. Porte Seine, Open from Monday till Saturday 10am-8.30pm, Sunday 10 am-8.30pm. 01 34 17 35 00"
+      },
+      {
+        "Id": 3,
+        "Title": "Beta",
+        "Subtitle": "Apple Store, First floor. Porte Seine, Open from Monday till Saturday 10am-8.30pm, Sunday 10 am-8.30pm. 01 34 17 35 00"
+      },
+      {
+        "Id": 4,
+        "Title": "Beta",
+        "Subtitle": "Apple Store, First floor. Porte Seine, Open from Monday till Saturday 10am-8.30pm, Sunday 10 am-8.30pm. 01 34 17 35 00"
+      },
+      {
+        "Id": 5,
+        "Title": "Beta",
+        "Subtitle": "Apple Store, First floor. Porte Seine, Open from Monday till Saturday 10am-8.30pm, Sunday 10 am-8.30pm. 01 34 17 35 00"
+      },
+      {
+        "Id": 6,
+        "Title": "Beta",
+        "Subtitle": "Apple Store, First floor. Porte Seine, Open from Monday till Saturday 10am-8.30pm, Sunday 10 am-8.30pm. 01 34 17 35 00"
+      },
+      {
+        "Id": 7,
+        "Title": "Beta",
+        "Subtitle": "Apple Store, First floor. Porte Seine, Open from Monday till Saturday 10am-8.30pm, Sunday 10 am-8.30pm. 01 34 17 35 00"
+      }
+    ]
+}
